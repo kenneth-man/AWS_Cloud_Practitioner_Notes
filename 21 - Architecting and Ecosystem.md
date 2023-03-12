@@ -39,7 +39,7 @@
 
 ### **Design Principles:**
 	- Perform operations as code
-	- Annotate Documentation
+	- Anticipate Failure
 	- Make frequent small reversible changes
 
 <br>

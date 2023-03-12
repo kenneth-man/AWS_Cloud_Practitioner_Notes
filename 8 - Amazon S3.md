@@ -9,7 +9,7 @@
 - ### **Object (*File*)**
 	- Contains a key, which is the full path of your object
 - ### **Security**
-	- Grant S3 Bucket Policies, Attach IAM policies to users, S3 Encryption to protect files
+	- S3 Bucket Policies, S3 Encryption, Attach IAM policies to users
 - ### **Versioning**
 - ### **Replication (Cross-Region, Same-Region)**
 - ### **Storage Gateway** = Allow on-premise storage to use S3

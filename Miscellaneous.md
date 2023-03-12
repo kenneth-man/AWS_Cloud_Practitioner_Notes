@@ -1,9 +1,9 @@
 ## **Common/important questions**; add practice exam answers to their relevent sections in notes.
 
 <br>
-misc,3,4,5,6,7,8,9,10 
+misc,4,5,6,7,8,9,10,11
 <br>
-11,12,13,14,15,16,21,17,18 ===========
+12,13,14,15,16,21,17,18 ===========
 <br>
 
 <br>
