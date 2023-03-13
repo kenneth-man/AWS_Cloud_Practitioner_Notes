@@ -81,7 +81,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Save cost based on long term usage of AWS
+		Reduce cost based on long term usage of AWS
 	</font>
 </details>
 <details>
