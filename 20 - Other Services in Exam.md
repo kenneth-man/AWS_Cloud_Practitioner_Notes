@@ -2,7 +2,7 @@
 
 # **20OSIE-(AASIEADADBEFSGP)**
 
-- ### **Amazon Workspaces** = Managed DaaS (Desktop as a Service) to provision Windows or Linux desktops
+- ### **Amazon Workspaces** = Managed desktop virtualization service for Windows and Linux; access resources from supported devices
 - ### **AppStream 2.0** = Desktop app streaming service
 - ### **Sumerian** = Create VR and AR apps
 - ### **IoT Core** = Connect IoT devices to AWS Cloud
@@ -17,3 +17,4 @@
 - ### **Step Functions** = Build serverless visual workflow to orchestrate your lambda functions
 - ### **Ground Station** = Control satellite communications and data
 - ### **PinPoint** = Outbound and inbound marketing communications service (e.g. email, sms, voice...)
+- ### **Secrets Manager** = Protect secrets/passwords/keys needed to access your applications

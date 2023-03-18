@@ -13,6 +13,9 @@
 - ### **Versioning**
 - ### **Replication (Cross-Region, Same-Region)**
 - ### **Storage Gateway** = Allow on-premise storage to use S3
+	- ### **Gateway Virtual Tape Library** = Used with popular backup software (NetBackup, Backup Exec, Veeam)
+	- ### **File Gateway** = Store and retrieve objects in S3
+	- ### **Volume Gateway** = Block-based volumes
 
 <br>
 
@@ -20,7 +23,7 @@
 - ### **Standard**
 	- Frequently accessed data
 	- Low latency, High throughput
-- ### **Infrequent Access**
+- ### **Standard Infrequent Access**
 	- Infrequently accessed data
 	- Cost on retrieval of data
 - ### **One Zone-Infrequent Access**

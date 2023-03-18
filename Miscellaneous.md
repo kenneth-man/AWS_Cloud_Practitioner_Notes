@@ -3,7 +3,7 @@
 <br>
 misc,4,5,6,7,8,9,10,11
 <br>
-12,13,14,15,16,21,17,18 ===========
+12,13,14,15,16,21,17,18,19,20 <===========
 <br>
 
 <br>
@@ -27,6 +27,7 @@ misc,4,5,6,7,8,9,10,11
 
 - ### **Prohibited uses of the web services offered by Amazon Web Services**
 	- AWS Acceptable Use Policy
+		- Customers can perform **Penetration testing** for selected aws services
 
 <br>
 
@@ -70,19 +71,44 @@ misc,4,5,6,7,8,9,10,11
 
 <br>
 
+- ### **Asynchronous integration**
+	- For **Loose coupling**; interaction that does not need an immediate response
+	- SQS
+	- Step Functions
+
+<br>
+
+- ### **AWS Shared responsibility model is part of which pillar of the AWS Well-Architected Framework?**
+	- Security
+
+<br>
+
+- ### **Shared Responsibility Model**
+![](sharedResponsibilityModel.jpg)
+
+<br>
+
 - ### **Security Group vs Network ACL**
 ![](securityGroupNetworkACL.jpg)
 
 <br>
 
 - ### **AWS Support Plans**
-	## **Basic** – Forums support.
-	## **Developer** – Business hours email support.
-	## **Business** – 24/7 email, chat, and phone support.
-	## **Enterprise** – 24/7 email, chat, and phone support.
-
-### - Developer allows one person to open unlimited cases.
-### - Enterprise comes with a Technical Account Manager (TAM).
-### - Business and Enterprise allow unlimited contacts to open unlimited cases.
+	## **Basic**
+		– Forums support.
+	## **Developer**
+		– Business hours email support.
+		- 1 person can open unlimited cases
+	## **Business**
+		– 24/7 email, chat, and phone support.
+		- AWS Health API access.
+		- Unlimited people can open unlimited cases.
+	## **Enterprise**
+		- Same as Business, in addition...
+		- Includes Technical Account Manager (TAM) and Concierge
+		- x < 15 minutes response time for business-critical system failure
+	## **Enterprise on Ramp**
+		- Same as Enterprise except...
+		- x < 30 minutes response time for business-critical system failure
 
 <br>

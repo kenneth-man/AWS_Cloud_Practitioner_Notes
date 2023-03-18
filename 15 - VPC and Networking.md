@@ -62,7 +62,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		- <strong>PrivateLink</strong> = Privately connect to a service in a 3rd party VPC
+		- <strong>PrivateLink</strong> = Privately connect to a service in a 3rd party VPC with encrypted channel
 	</font>
 	<br>
 	<font size=4>

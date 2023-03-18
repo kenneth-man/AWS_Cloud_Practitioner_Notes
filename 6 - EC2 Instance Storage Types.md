@@ -36,6 +36,7 @@
 - ### Attached to multiple EC2 instances in a region
 - No Provisioning Capacity Amount
 - ### **EFS Infrequent Access (EFS-IA)** = **Cost optimized** for infrequently accessed files
+- ### **Linux; NFS Protocol**
 
 <br>
 
@@ -43,4 +44,4 @@
 - ### Managed 3rd party AWS file storage
 - ### **2 options:**
 	- **FSx Lustre** = For **High Performance Computing** in Linux
-	- **FSx Windows File Server** = For Windows servers
+	- **FSx Windows File Server** = **Windows; SMB Protocol**
