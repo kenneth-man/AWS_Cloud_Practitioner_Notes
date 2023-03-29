@@ -10,19 +10,21 @@
 	- Contains a key, which is the full path of your object
 - ### **Security**
 	- S3 Bucket Policies, S3 Encryption, Attach IAM policies to users
-- ### **Versioning**
+- ### **Serve static websites**
 - ### **Replication (Cross-Region, Same-Region)**
 - ### **Storage Gateway** = Allow on-premise storage to use S3
-	- ### **Gateway Virtual Tape Library** = Used with popular backup software (NetBackup, Backup Exec, Veeam)
+	- ### **Gateway Virtual Tape Library** = Used with popular backup software
 	- ### **File Gateway** = Store and retrieve objects in S3
 	- ### **Volume Gateway** = Block-based volumes
+- ### **Lifecycle Management**
+	- Move objects to different storage classes based on age
 
 <br>
 
 ## **S3 Storage Classes**
 - ### **Standard**
 	- Frequently accessed data
-	- Low latency, High throughput
+	- **GB per month storage** and **Data egress** fee
 - ### **Standard Infrequent Access**
 	- Infrequently accessed data
 	- Cost on retrieval of data

@@ -1,9 +1,11 @@
 ## **Common/important questions**; add practice exam answers to their relevent sections in notes.
 
 <br>
-misc,4,5,6,7,8,9,10,11
+misc,3,4,5,6,7,8
 <br>
-12,13,14,15,16,21,17,18,19,20 <===========
+9,10,11,12,13,14,15
+<br>
+16,21,17,18,19,20 <===========
 <br>
 
 <br>
@@ -72,9 +74,7 @@ misc,4,5,6,7,8,9,10,11
 <br>
 
 - ### **Asynchronous integration**
-	- For **Loose coupling**; interaction that does not need an immediate response
-	- SQS
-	- Step Functions
+	- **Loose coupling between services** (SQS, Step Functions...)
 
 <br>
 
@@ -93,22 +93,33 @@ misc,4,5,6,7,8,9,10,11
 
 <br>
 
-- ### **AWS Support Plans**
+- ### **AWS Support Plans (ALL HAVE ACCESS TO CUSTOMER SUPPORT)**
 	## **Basic**
 		– Forums support.
 	## **Developer**
-		– Business hours email support.
+		– Business hours email support
 		- 1 person can open unlimited cases
 	## **Business**
-		– 24/7 email, chat, and phone support.
-		- AWS Health API access.
-		- Unlimited people can open unlimited cases.
+		– 24/7 email, chat, and phone support
+		- AWS Health API access
+		- Unlimited people can open unlimited cases
+		- x < 1 hour response time for production system down
 	## **Enterprise**
-		- Same as Business, in addition...
-		- Includes Technical Account Manager (TAM) and Concierge
+		(Same as Business, in addition...)
+		- Includes Technical Account Manager (MONITORING) and Concierge (BILLING)
 		- x < 15 minutes response time for business-critical system failure
 	## **Enterprise on Ramp**
-		- Same as Enterprise except...
+		(Same as Enterprise except...)
 		- x < 30 minutes response time for business-critical system failure
 
 <br>
+
+- ## **SaaS** = Whole stack is managed for you right up to the application.
+
+<br>
+
+- ## **Paas** = Don’t need to manage the infrastructure level yourself. OS management and patching are performed for you.
+
+<br>
+
+- ## **IaaS** = Hardware platform and hypervisor are managed for you.

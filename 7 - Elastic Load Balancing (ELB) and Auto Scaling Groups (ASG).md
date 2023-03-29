@@ -16,7 +16,7 @@
 <br>
 
 ## **Elastic Load Balancer** (ELB)
-- ### Distribute traffic across EC2 Instances
+- ### Distribute traffic across EC2 Instances in a region
 - ### **3 Types:**
 	- **Application Load Balancer** (HTTP/HTTPS/gRPC; ***LAYER 7***)
 	- **Network Load Balancer** (TCP/UDP; ***LAYER 4***)

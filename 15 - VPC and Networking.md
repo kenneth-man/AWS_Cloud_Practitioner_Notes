@@ -31,7 +31,7 @@
 	</font>
 	<br>
 	<font size=3>
-		&nbsp; &nbsp; - <strong>NACL</strong> = Stateless Firewall rules for inbound/outbound requests
+		&nbsp; &nbsp; - <strong>N(etwork)ACL</strong> = Stateless Firewall rules for inbound/outbound requests, at VPC level
 	</font>
 	<br>
 	<font size=3>

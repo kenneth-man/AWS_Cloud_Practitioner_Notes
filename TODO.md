@@ -1,0 +1,3 @@
+- misc section
+- memorize section 19
+- memorize section 20

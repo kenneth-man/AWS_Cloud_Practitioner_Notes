@@ -6,7 +6,7 @@
 - ### **EBS Volume** = Attached to EC2 Instances in a AZ (e.g. us-east-1a) so they persist data even after termination
 	- 1 **EBS Volume** to 1 **EC2 Instance**
 	- Provision Capacity Amount
-- ### **EBS Snapshot** = Backup of an EBS Volume at a point in time
+- ### **EBS Snapshot** = Backup of an EBS Volume at a point in time; **stored in S3**
 	- Can copy snapshots across AZ or Region.
 	- **EBS Snapshot Archive** = Moving snapshots to another storage tier
 

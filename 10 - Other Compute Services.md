@@ -56,7 +56,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Predictable, low pricing for simple applications
+		Predictable, low pricing for simple applications; <strong>Virtual private servers</strong>, <strong>Managed MySQL DBs</strong>
 	</font>
 </details>
 
@@ -71,7 +71,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		- Serverless, FaaS, automated scaling, reactive
+		- Serverless, FaaS, Automated scaling
 	</font>
 	<br>
 	<font size=4>

@@ -6,6 +6,7 @@
 - ### Data Tables that have relationships with each other
 - ### **AWS RDS**
 	- Create a DB in the cloud using schema, **Automated backups and patching**, managed by AWS
+	- **Scale up by increasing the instance size or increase storage capacity**
 	- **Dbs createable with RDS:**
 		- **Aurora** = **Cloud optimized**; better performance than Postgres/MySQL on RDS
 		- **Postgres**
@@ -39,7 +40,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		<strong>Data Warehouse</strong> used for <strong>OLAP</strong> (Online Analytical Processing of Data)
+		<strong>SQL Data Warehouse</strong> for <strong>OLAP</strong> (Online Analytical Processing of Data)
 	</font>
 </details>
 

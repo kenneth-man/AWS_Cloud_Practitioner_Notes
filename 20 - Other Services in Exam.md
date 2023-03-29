@@ -5,7 +5,7 @@
 - ### **Amazon Workspaces** = Managed desktop virtualization service for Windows and Linux; access resources from supported devices
 - ### **AppStream 2.0** = Desktop app streaming service
 - ### **Sumerian** = Create VR and AR apps
-- ### **IoT Core** = Connect IoT devices to AWS Cloud
+- ### **IoT Core** = Connect devices securely to interact with cloud applications
 - ### **Elastic Transcoder** = Convert files stored in S3 to formats requires by devices (e.g. phone)
 - ### **AppSync** = sync data across mobile and web apps in realtime
 - ### **DataSync** = Move data from on-premises to AWS
@@ -18,3 +18,4 @@
 - ### **Ground Station** = Control satellite communications and data
 - ### **PinPoint** = Outbound and inbound marketing communications service (e.g. email, sms, voice...)
 - ### **Secrets Manager** = Protect secrets/passwords/keys needed to access your applications
+- ### **Quick Starts** = Rapidly deploy popular technologies on AWS

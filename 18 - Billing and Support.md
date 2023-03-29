@@ -93,7 +93,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Assign metadata to your resources as tags; used for searching and filtering resources
+		Assign metadata to your resources as tags; used for searching and filtering resources. <strong>Resource groups</strong> = group resources that share tags
 	</font>
 </details>
 <details>
