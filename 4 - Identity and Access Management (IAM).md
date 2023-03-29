@@ -26,7 +26,7 @@
 	- Protected by password and/or MFA
 - ### **AWS Command Line Interface (CLI)**
 	- Manage AWS services using the command line
-	- Protected by access keys
+	- Protected by access and secret keys
 - ### **AWS Software Developer Kit (SDK)**
 	- Manage AWS services using a programming language
-	- Protected by access keys
+	- Protected by access and secret keys

@@ -1,18 +1,4 @@
-## **Common/important questions**; add practice exam answers to their relevent sections in notes.
-
-<br>
-misc,3,4,5,6,7,8
-<br>
-9,10,11,12,13,14,15
-<br>
-16,21,17,18,19,20 <===========
-<br>
-
-<br>
-
--------------------------------------------------
-
-<br>
+## **Common/important questions**
 
 - ### **AWS Trusted Advisor** = Real-time guidance to help provision your resources following AWS best practices; Helps optimize...
 	- 	Cost
@@ -24,6 +10,10 @@ misc,3,4,5,6,7,8
 
 - ### **Sole responsibility of AWS**
 	- Availability Zone Management
+
+<br>
+
+- ### As a customer on AWS you take responsibility for, **Encrypting data at rest** and **in transit**.
 
 <br>
 

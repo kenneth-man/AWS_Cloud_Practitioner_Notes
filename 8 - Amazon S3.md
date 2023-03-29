@@ -17,7 +17,7 @@
 	- ### **File Gateway** = Store and retrieve objects in S3
 	- ### **Volume Gateway** = Block-based volumes
 - ### **Lifecycle Management**
-	- Move objects to different storage classes based on age
+	- Change storage classes based on age
 
 <br>
 
