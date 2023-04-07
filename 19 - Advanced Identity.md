@@ -4,7 +4,7 @@
   	<summary>
 		<strong>
 			<font size=4>
-				Organizations
+				AWS Organizations
 			</font>
 		</strong>
 	</summary>
@@ -13,11 +13,11 @@
 	</font>
 	<br>
 	<font size=4>
-		- <strong>Service Control Policies (SCP)</strong> = Control the API actions allowed in an account
+		&nbsp;&nbsp;&nbsp;&nbsp; - <strong>Service Control Policies (SCP)</strong> = Control the API actions privileges for an account
 	</font>
 	<br>
 	<font size=4>
-		- <strong>Consolidated billing</strong> = Volume discounts in a single monthly AWS bill for multiple AWS accounts; Tiered pricing choices 
+		&nbsp;&nbsp;&nbsp;&nbsp; - <strong>Consolidated billing</strong> = Volume discounts in a single monthly bill for multiple AWS accounts; Tiered pricing choices 
 	</font>
 </details>
 <details>
@@ -29,7 +29,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Temporary, limited privileges credentials to access AWS resources
+		Temporary, limited privilege credentials to access AWS resources
 	</font>
 </details>
 <details>
@@ -41,7 +41,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Add user sign-up, sign-in, and access control in your applications
+		Add user sign-up, sign-in, and access control into applications
 	</font>
 </details>
 <details>
@@ -53,7 +53,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Integrate Microsoft Active Directory in AWS
+		Integrate Microsoft Active Directory into AWS
 	</font>
 </details>
 <details>

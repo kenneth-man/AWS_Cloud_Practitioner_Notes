@@ -5,9 +5,11 @@
 ## **Relational Databases** (SQL)
 - ### Data Tables that have relationships with each other
 - ### **AWS RDS**
-	- Create a DB in the cloud using schema, **Automated backups and patching**, managed by AWS
-	- **Scale up by increasing the instance size or increase storage capacity**
-	- **Dbs createable with RDS:**
+	- Create a DB in the cloud using schema
+	- **Automated backups and patching via RDS console**
+	- **Managed by AWS so simplifies DB Admin role**
+	- **Scale up by increasing the instance size or storage capacity**
+	- **Dbs created with RDS:**
 		- **Aurora** = **Cloud optimized**; better performance than Postgres/MySQL on RDS
 		- **Postgres**
 		- **MySQL**

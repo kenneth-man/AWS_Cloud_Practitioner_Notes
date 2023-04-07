@@ -43,16 +43,29 @@
 
 <br>
 
+- ### **Global services**
+	- IAM
+	- S3
+	- CloudFront
+
+<br>
+
 - ### **Services you can reserve for discounts**
-	- EC2
-	- RDS
 	- DynamoDB
+	- RDS
+	- EC2
 	- RedShift
 	- ElastiCache
 
 <br>
 
-- ### **Automatically enabled Data Encryption**
+- ### **Automatically scale**
+	- DynamoDB
+	- S3
+
+<br>
+
+- ### **Automatic Data Encryption**
 	- AWS Storage Gateway
 	- S3 Glacier
 
@@ -113,3 +126,9 @@
 <br>
 
 - ## **IaaS** = Hardware platform and hypervisor are managed for you.
+
+<br>
+
+- ## **AWS Cost Management tools**
+	- ### Create budgets and receive alerts
+	- ### Automatically terminate AWS resources if budget exceeded

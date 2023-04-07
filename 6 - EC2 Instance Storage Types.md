@@ -6,6 +6,7 @@
 - ### **EBS Volume** = Attached to EC2 Instances in a AZ (e.g. us-east-1a) so they persist data even after termination
 	- 1 **EBS Volume** to 1 **EC2 Instance**
 	- Provision Capacity Amount
+	- **Non-root** and **root** volumes can be **encrypted**
 - ### **EBS Snapshot** = Backup of an EBS Volume at a point in time; **stored in S3**
 	- Can copy snapshots across AZ or Region.
 	- **EBS Snapshot Archive** = Moving snapshots to another storage tier
@@ -13,7 +14,7 @@
 <br>
 
 ## **Amazon Machine Image** (AMI)
-- ### Customization of an EC2 Instance (software, configuration, OS...)
+- ### Customization of an EC2 Instance (software, configuration, OS...), **quickly launch to replace instances incase of failure**
 - ### **3 Types:**
 	- **Public AMI** = AWS provided and manages the AMI
 	- **Custom AMI** = You create and maintain the AMI

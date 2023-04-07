@@ -5,7 +5,7 @@
 - ### **Amazon Workspaces** = Managed desktop virtualization service for Windows and Linux; access resources from supported devices
 - ### **AppStream 2.0** = Desktop app streaming service
 - ### **Sumerian** = Create VR and AR apps
-- ### **IoT Core** = Connect devices securely to interact with cloud applications
+- ### **IoT Core** = Connected devices securely interact with cloud applications
 - ### **Elastic Transcoder** = Convert files stored in S3 to formats requires by devices (e.g. phone)
 - ### **AppSync** = sync data across mobile and web apps in realtime
 - ### **DataSync** = Move data from on-premises to AWS
