@@ -11,6 +11,7 @@
 - ### **Security**
 	- S3 Bucket Policies, S3 Encryption, Attach IAM policies to users
 - ### **Serve static websites**
+- ### **99.99999% Data durability**
 - ### **Replication (Cross-Region, Same-Region)**
 - ### **Storage Gateway** = Allow on-premise storage to use S3
 	- ### **Gateway Virtual Tape Library** = Used with popular backup software

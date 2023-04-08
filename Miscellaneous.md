@@ -1,10 +1,8 @@
 ## **Common/important questions**
 
-- ### **AWS Trusted Advisor** = Real-time guidance to help provision your resources following AWS best practices; Helps optimize...
-	- 	Cost
-	-	Security
-	-	Fault tolerance
-	-	Performance
+- ### **AWS Trusted Advisor** =
+	- ### Real-time recommendations for provisioning resources following best practices to optimize...**Cost**, **Security**, **Fault tolerance**, **Performance**.
+	- ### Identify underutilized EC2 instances
 
 <br>
 
@@ -50,6 +48,12 @@
 
 <br>
 
+- ### **Managed services**
+	- DynamoDB
+	- EMR
+
+<br>
+
 - ### **Services you can reserve for discounts**
 	- DynamoDB
 	- RDS
@@ -91,8 +95,13 @@
 
 <br>
 
-- ### **Security Group vs Network ACL**
-![](securityGroupNetworkACL.jpg)
+- ### **Shared Controls**
+- ### Apply to both the infrastructure layer and customer layers
+	- ### **Patch Management** = AWS responsible for patching the firmware hosts; customers responsible for patching guest OS and applications.
+
+	- ### **Configuration Management** = AWS maintains the configuration of its infrastructure hardware; customer responsible for configuring their own guest OS and applications.
+
+	- ### **Awareness & Training** = AWS trains AWS employees; customer trains their own employees.
 
 <br>
 
