@@ -80,6 +80,6 @@
 	</font>
 	<br>
 	<font size=4>
-		- <strong>Transit Gateway</strong> = Connect VPC and on-premise networks
+		- <strong>Transit Gateway</strong> = Connect VPC and on-premise networks; SIMPLIFY CONNECTION MANAGEMENT AMONG VPCs
 	</font>
 </details>

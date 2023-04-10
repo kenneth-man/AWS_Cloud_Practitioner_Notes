@@ -6,6 +6,7 @@
 - ### **Group** = Can only contain Users
 - ### **Permissions** = Apply permission policies to **Users/Groups** in JSON; **Inline Policies** permission policies to a single user
 - ### ***AWS managed policies cannot be edited; Users can create custom policies***
+- ### **Deploy SSL server certificates**
 - ### **Roles** = Apply permission policies to AWS services; **Max 1 role to 1 instance**
 - ### **Password Policy** = Apply policies for passwords of AWS accounts
 - ### **Multi Factor Authentication (MFA)** = Password you know + Security device you own

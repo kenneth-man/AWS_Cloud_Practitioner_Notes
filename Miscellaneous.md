@@ -77,7 +77,7 @@
 <br>
 
 - ### **Central user portal to log into third-party business applications**
-	- AWS Single Sign-On (SSO)
+	- AWS Single Sign-On (SSO) / AWS IAM Identity Center
 
 <br>
 

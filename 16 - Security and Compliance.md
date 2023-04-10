@@ -41,7 +41,7 @@
   	<summary>
 		<strong>
 			<font size=4>
-				AWS Certificate Manager
+				AWS Certificate Manager (ACM)
 			</font>
 		</strong>
 	</summary>

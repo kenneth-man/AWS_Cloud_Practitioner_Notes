@@ -18,3 +18,4 @@
 - ### **PinPoint** = Marketing communications service (e.g. email, sms, voice...)
 - ### **Secrets Manager** = Protect secrets/passwords/keys
 - ### **Quick Starts** = Rapidly deploy popular technologies on AWS
+- ### **Service Catalog** = Centrally manage commonly deployed IT services
