@@ -1,6 +1,4 @@
-# Section 8 - Amazon S3
-
-# **8S3-S3F(BOSVRS),S3SC(SIOGGGI),SF(SSS)**
+# Section 8 - **Amazon S3** / **SIMPLE STORAGE SERVICE**
 
 ## **S3 Features**
 - ### Backup and restore **Data lakes**, and **Archives**
@@ -11,7 +9,7 @@
 - ### **Security**
 	- S3 Bucket Policies, S3 Encryption, Attach IAM policies to users
 - ### **Serve static websites**
-- ### **99.99999% Data durability**
+- ### **99.99999% Data durability and virtually unlimited storage**
 - ### **Replication (Cross-Region, Same-Region)**
 - ### **Storage Gateway** = Allow on-premise storage to use S3
 	- ### **Gateway Virtual Tape Library** = Used with popular backup software

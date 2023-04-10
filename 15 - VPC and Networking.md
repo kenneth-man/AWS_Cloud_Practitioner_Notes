@@ -1,7 +1,5 @@
 # 15 - Virtual Private Cloud and Networking
 
-# **15VPCN-VPC(SGSPEF),N(PVDT)**
-
 <details>
   	<summary>
 		<strong>
@@ -11,7 +9,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		- <strong>Subnets</strong> = VPC contains multiple subnets. Network partition (a group of services available) of a VPC; bound to 1 AZ
+		- <strong>Subnets</strong> = VPC contains multiple subnets. Network partition of a VPC to isolate resources and network configurations; bound to 1 AZ
 	</font>
 	<br>
 	<font size=4>

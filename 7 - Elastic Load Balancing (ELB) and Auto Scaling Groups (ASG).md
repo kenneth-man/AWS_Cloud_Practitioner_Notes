@@ -1,7 +1,5 @@
 # Section 7 - Elastic Load Balancing (ELB) and Auto Scaling Groups (ASG)
 
-# **7EA-DEF(SEAA),ELB(ANG),ASG(MDP)**
-
 ## **Definitions**
 - ### **Scalability** = Handle greater loads by adapting
 	- **2 types:**

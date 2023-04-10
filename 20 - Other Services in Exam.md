@@ -1,11 +1,10 @@
 # 20 - Other Services in Exam
 
-# **20OSIE-(AASIEADADBEFSGP)**
-
+- ### **WAF (Web Application Firewall)** = Protect web apps from common exploits (e.g. SQL injection, cross-site scripting...)
 - ### **Amazon Workspaces** = Managed desktop virtualization service for Windows and Linux
 - ### **AppStream 2.0** = Desktop app streaming service
 - ### **Sumerian** = Create VR and AR apps
-- ### **IoT Core** = Connected devices securely interact with cloud applications
+- ### **IoT Core** = Connected devices securely interact with cloud apps
 - ### **Elastic Transcoder** = S3 file conversion to required format
 - ### **AppSync** = Sync data for apps in realtime
 - ### **DataSync** = Move data from on-premises to AWS

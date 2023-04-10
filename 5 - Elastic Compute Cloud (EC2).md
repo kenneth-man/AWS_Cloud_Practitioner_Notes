@@ -1,9 +1,7 @@
 # Section 5 - Elastic Compute Cloud (EC2)
 
-# **5EC2-EC2,EC2IT(GCMS),PO(ORSSDC)**
-
 ## **EC2 Instance**
-- Virtual server in the Elastic Compute Cloud (EC2) that runs applications in AWS; IaaS
+- Virtual server in the Elastic Compute Cloud (EC2) that runs applications in AWS; **IaaS**
 - ### **Security Groups** = Firewall for EC2 instances; controls what traffic is allowed in/out of EC2 instance
 - ### **User Data** = **Bootstrap Script** launched at the first start of an instance to Install updates, software...
 - ### Use when need for full control over and instance and DB; manual patching OS

@@ -1,7 +1,5 @@
 # Section 10 - More Compute Services
 
-# **10MCS-(DEFLLEB)**
-
 <details>
   	<summary>
 		<strong>
@@ -76,6 +74,10 @@
 	<br>
 	<font size=4>
 		- Invocation time is up to 15 minutes
+	</font>
+	<br>
+	<font size=4>
+		- 0 Administrative burden
 	</font>
 	<br>
 	<font size=4>

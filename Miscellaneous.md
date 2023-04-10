@@ -7,17 +7,16 @@
 <br>
 
 - ### **Sole responsibility of AWS**
-	- Availability Zone Management
+	- ### Availability Zone Management
 
 <br>
 
-- ### As a customer on AWS you take responsibility for, **Encrypting data at rest** and **in transit**.
+- ### Customers in AWS are responsible for **Encrypting data at rest** and **in transit**.
 
 <br>
 
-- ### **Prohibited uses of the web services offered by Amazon Web Services**
-	- AWS Acceptable Use Policy
-		- Customers can perform **Penetration testing** for selected aws services
+- ### **AWS Acceptable Use Policy**
+	- Customers can perform **Penetration testing** for selected aws services without needing approval from AWS
 
 <br>
 
@@ -54,7 +53,7 @@
 
 <br>
 
-- ### **Services you can reserve for discounts**
+- ### **Reservable services**
 	- DynamoDB
 	- RDS
 	- EC2
@@ -65,7 +64,9 @@
 
 - ### **Automatically scale**
 	- DynamoDB
+	- Aurora
 	- S3
+	- Lambda
 
 <br>
 
@@ -96,48 +97,58 @@
 <br>
 
 - ### **Shared Controls**
-- ### Apply to both the infrastructure layer and customer layers
-	- ### **Patch Management** = AWS responsible for patching the firmware hosts; customers responsible for patching guest OS and applications.
+	- ### Apply to both the infrastructure layer and customer layers
+		- ### **Patch Management** = AWS responsible for patching the firmware hosts; customers responsible for patching guest OS and applications.
 
-	- ### **Configuration Management** = AWS maintains the configuration of its infrastructure hardware; customer responsible for configuring their own guest OS and applications.
+		- ### **Configuration Management** = AWS maintains the configuration of its infrastructure hardware; customer responsible for configuring their own guest OS and applications.
 
-	- ### **Awareness & Training** = AWS trains AWS employees; customer trains their own employees.
+		- ### **Awareness & Training** = AWS trains AWS employees; customer trains their employees.
 
 <br>
 
 - ### **AWS Support Plans (ALL HAVE ACCESS TO CUSTOMER SUPPORT)**
-	## **Basic**
+	### **Basic**
 		– Forums support.
-	## **Developer**
+	### **Developer**
 		– Business hours email support
 		- 1 person can open unlimited cases
-	## **Business**
+	### **Business**
 		– 24/7 email, chat, and phone support
 		- AWS Health API access
 		- Unlimited people can open unlimited cases
 		- x < 1 hour response time for production system down
-	## **Enterprise**
+	### **Enterprise**
 		(Same as Business, in addition...)
 		- Includes Technical Account Manager (MONITORING) and Concierge (BILLING)
 		- x < 15 minutes response time for business-critical system failure
-	## **Enterprise on Ramp**
+	### **Enterprise on Ramp**
 		(Same as Enterprise except...)
 		- x < 30 minutes response time for business-critical system failure
 
 <br>
 
-- ## **SaaS** = Whole stack is managed for you right up to the application.
+- ### **SaaS** = Whole stack is managed for you. Focus on how you will use the software.
 
 <br>
 
-- ## **Paas** = Don’t need to manage the infrastructure level yourself. OS management and patching are performed for you.
+- ### **Paas** = Don’t need to manage the infrastructure level yourself, (hardware and OS). Focus on the deployment and management of applications.
 
 <br>
 
-- ## **IaaS** = Hardware platform and hypervisor are managed for you.
+- ### **IaaS** = Basic building blocks for Cloud; Hardware and hypervisor are managed for you. Highest level of flexibility and control.
 
 <br>
 
-- ## **AWS Cost Management tools**
+- ### **AWS Cost Management tools**
 	- ### Create budgets and receive alerts
 	- ### Automatically terminate AWS resources if budget exceeded
+
+<br>
+
+- ### **Active-Active** = Workload deployed to multiple regions; fault tolerance for natural disasters
+
+<br>
+
+- ### **Service limits**
+	- ### Contact AWS support to increase service limits
+	- ### AWS Trusted Advisor monitor service limits

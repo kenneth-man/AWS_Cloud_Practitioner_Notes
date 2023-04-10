@@ -1,7 +1,5 @@
 # Section 9 - Databases and Analytics
 
-# **9DA-R(RDS),NR(Dynamo),(REEAQQANDDG)**
-
 ## **Relational Databases** (SQL)
 - ### Data Tables that have relationships with each other
 - ### **AWS RDS**
@@ -9,7 +7,7 @@
 	- **Automated backups and patching via RDS console**
 	- **Managed by AWS so simplifies DB Admin role**
 	- **Scale up by increasing the instance size or storage capacity**
-	- **Dbs created with RDS:**
+	- **Dbs created with RDS (all use EBS Volume for storage):**
 		- **Aurora** = **Cloud optimized**; better performance than Postgres/MySQL on RDS
 		- **Postgres**
 		- **MySQL**

@@ -1,7 +1,5 @@
 # 11 - Deployment and Managing Infrastructure
 
-# **11DM-DPS(BCCOS),DVS(C-CBDSAP,CC)**
-
 # Deployment Services
 
 <details>

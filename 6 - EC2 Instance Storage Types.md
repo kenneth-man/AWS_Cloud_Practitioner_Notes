@@ -1,7 +1,5 @@
 # Section 6 - EC2 Instance Storage Types
 
-# **6EC2ST-EBS(VS),AMI(PCM),IB,IS,EFS(I),FSx**
-
 ## **Elastic Block Store** (EBS)
 - ### **EBS Volume** = Attached to EC2 Instances in a AZ (e.g. us-east-1a) so they persist data even after termination
 	- 1 **EBS Volume** to 1 **EC2 Instance**

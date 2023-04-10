@@ -1,7 +1,5 @@
 # Section 4 - Identity and Access Management (IAM)
 
-# **4IAM-IAM,AA(MCS)**
-
 ## **IAM**
 - ### Global service
 - ### **User** = People within your organization that can be grouped
