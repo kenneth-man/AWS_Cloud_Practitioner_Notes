@@ -9,7 +9,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Implement closest deployment to decrease latency; <strong>Weighted routing policy</strong> (route traffic to multiple resources)
+		Implement closest deployment to decrease latency; <strong>Weighted routing policy</strong> (route traffic to multiple resources); <strong>Health checking of EC2 instances</strong>
 	</font>
 </details>
 

@@ -119,7 +119,7 @@
 		- x < 1 hour response time for production system down
 	### **Enterprise**
 		(Same as Business, in addition...)
-		- Includes Technical Account Manager (MONITORING) and Concierge (BILLING)
+		- Includes Technical Account Manager (MONITORING) and Concierge (ACCOUNT & BILLING)
 		- x < 15 minutes response time for business-critical system failure
 	### **Enterprise on Ramp**
 		(Same as Enterprise except...)
@@ -152,3 +152,7 @@
 - ### **Service limits**
 	- ### Contact AWS support to increase service limits
 	- ### AWS Trusted Advisor monitor service limits
+
+<br>
+
+- ### **Per/Second billing is only for instances with Linux, Windows or Ubuntu**

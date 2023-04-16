@@ -1,9 +1,11 @@
-misc,3,4,5,6,7,8 <=========== Recalled last
+misc,3,4,5,6,7,8
 <br>
-9,10,11,12,13,14,15
+9,10,11,12,13,14,15 <=========== Recalled last
 <br>
 16,21,17,18,19,20
 <br>
-- memorize section misc + 8S3 + 15vpc and transit gateway
+- memorize section misc
+	+ 8 S3
+	+ 10 Lambda
 - memorize section 19
 - memorize section 20

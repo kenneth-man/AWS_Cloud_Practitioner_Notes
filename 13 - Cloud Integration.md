@@ -9,11 +9,15 @@
 		</strong>
 	</summary>
 	<font size=4>
-		- <strong>Queue service</strong>; up to 14 days message retention; For <strong>Decoupling applications (resiliency, reliability)</strong>
+		- <strong>Queue service</strong>; up to 14 days message retention
 	</font>
 	<br>
 	<font size=4>
-		- Multiple Producers, Consumers; share the reads from <strong>distributed applications</strong> and delete messages when done
+		- <strong>Decouple applications</strong>
+	</font>
+	<br>
+	<font size=4>
+		- Multiple Producers, Consumers; share the reads from <strong>distributed applications</strong> and delete messages when read by consumers
 	</font>
 </details>
 
@@ -32,7 +36,11 @@
 	</font>
 	<br>
 	<font size=4>
-		- Subscribers (Email, Lambda, SQS, HTTP...)
+		- <strong>Decouple applications</strong>
+	</font>
+	<br>
+	<font size=4>
+		- 1 message to many subscribers; text and email
 	</font>
 	<br>
 	<font size=4>

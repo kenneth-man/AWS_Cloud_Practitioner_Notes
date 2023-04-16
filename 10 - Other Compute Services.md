@@ -81,7 +81,7 @@
 	</font>
 	<br>
 	<font size=4>
-		- Supports many programming languages except Docker
+		- Supports any programming language using Runtime API; Not Docker
 	</font>
 	<br>
 	<font size=4>

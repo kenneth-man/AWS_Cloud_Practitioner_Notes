@@ -9,7 +9,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		- <strong>Subnets</strong> = VPC contains multiple subnets. Network partition of a VPC to isolate resources and network configurations; bound to 1 AZ
+		- <strong>Subnets</strong> = VPC contains multiple subnets. Network partition of a VPC to isolate resources and networks; bound to 1 AZ
 	</font>
 	<br>
 	<font size=4>
