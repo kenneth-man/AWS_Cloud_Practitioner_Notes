@@ -60,7 +60,7 @@
   	<summary>
 		<strong>
 			<font size=4>
-				IAM Identity Center
+				IAM Identity Center (aka Single Sign-On SSO)
 			</font>
 		</strong>
 	</summary>

@@ -1,16 +1,19 @@
 # Section 9 - Databases and Analytics
 
 ## **Relational Databases** (SQL)
-- ### Data Tables that have relationships with each other
 - ### **AWS RDS**
 	- Create a DB in the cloud using schema
 	- **Automated backups and patching via RDS console**
 	- **Managed by AWS so simplifies DB Admin role**
 	- **Scale up by increasing the instance size or storage capacity**
+	- **Supports ACID transactions (Atomicity, Consistency, Isolation, and Durability)**
 	- **Dbs created with RDS (all use EBS Volume for storage):**
-		- **Aurora** = **Cloud optimized**; better performance than Postgres/MySQL on RDS
+		- **Aurora** = **Cloud optimized**; better performance than Postgres/MySQL on RDS; automatically replicates data across 3 AZ
 		- **Postgres**
 		- **MySQL**
+		- **MariaDB**
+		- **Oracle**
+		- **Microsoft SQL Server**
 	- **Deployment Options:**
 		- **Read Replicas**
 			- Create up to 5 Read Replicas (copies of your RDS database); application can read from all replicas

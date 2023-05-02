@@ -69,7 +69,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Track usage, costs, reserved instances and get alerts
+		Track usage, costs, reserved instances and get alerts. Automatically terminate resources if budget exceeded
 	</font>
 </details>
 <details>

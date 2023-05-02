@@ -17,6 +17,7 @@
 	- ### **Volume Gateway** = Block-based volumes
 - ### **Lifecycle Management**
 	- Change storage classes based on age
+- ### **Cost** = Amount of storage and data transferred out of S3, number of requests made to S3, and Storage classes
 
 <br>
 

@@ -1,27 +1,6 @@
 ## **Common/important questions**
 
-- ### **AWS Trusted Advisor** =
-	- ### Real-time recommendations for provisioning resources following best practices to optimize...**Cost**, **Security**, **Fault tolerance**, **Performance**.
-	- ### Identify underutilized EC2 instances
-
-<br>
-
-- ### **Sole responsibility of AWS**
-	- ### Availability Zone Management
-
-<br>
-
-- ### Customers in AWS are responsible for **Encrypting data at rest** and **in transit**.
-
-<br>
-
-- ### **AWS Acceptable Use Policy**
-	- Customers can perform **Penetration testing** for selected aws services without needing approval from AWS
-
-<br>
-
-- ### **AWS to offer lower pay-as-you-go pricing for thousands of customers**
-	- Massive economies of scale
+- ### Customers in AWS are responsible for **Encrypting data at rest** and **in transit**
 
 <br>
 
@@ -33,76 +12,132 @@
 
 <br>
 
-- ### **Free services**
-	- IAM
-	- Auto scaling
-	- Billing Dashboard
-
-<br>
-
-- ### **Global services**
-	- IAM
-	- S3
-	- CloudFront
-
-<br>
-
-- ### **Managed services**
-	- DynamoDB
-	- EMR
-
-<br>
-
-- ### **Reservable services**
-	- DynamoDB
-	- RDS
-	- EC2
-	- RedShift
-	- ElastiCache
-
-<br>
-
-- ### **Automatically scale**
-	- DynamoDB
-	- Aurora
-	- S3
-	- Lambda
-
-<br>
-
-- ### **Automatic Data Encryption**
-	- AWS Storage Gateway
-	- S3 Glacier
-
-<br>
-
-- ### **Central user portal to log into third-party business applications**
-	- AWS Single Sign-On (SSO) / AWS IAM Identity Center
-
-<br>
-
-- ### **Asynchronous integration**
-	- **Loose coupling between services** (SQS, Step Functions...)
-
-<br>
-
-- ### **AWS Shared responsibility model is part of which pillar of the AWS Well-Architected Framework?**
+- ### **AWS Shared Responsibility Model is part of which pillar of the AWS Well-Architected Framework?**
 	- Security
+
+<br>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Free (6)
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		IAM, Auto Scaling, Billing Dashboard, Bulletins, Security Blog, Whitepapers
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Global (3)
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		IAM, S3, CloudFront
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Managed (2)
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		DynamoDB, EMR
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Reservable (5)
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		DynamoDB, RDS, EC2, Redshift, ElastiCache
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Automated Scaling (4)
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		DynamoDB, Aurora, S3, Lambda
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Automated Data Encryption (2)
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Storage Gateway, S3 Glacier
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Asynchronous integration
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Loose coupling between services (SQS, Step Functions...)
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Shared Controls
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Apply to both infrastructure and customer layer
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Inherited Controls
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Managed for customer by AWS
+	</font>
+</details>
 
 <br>
 
 - ### **Shared Responsibility Model**
 ![](sharedResponsibilityModel.jpg)
-
-<br>
-
-- ### **Shared Controls**
-	- ### Apply to both the infrastructure layer and customer layers
-		- ### **Patch Management** = AWS responsible for patching the firmware hosts; customers responsible for patching guest OS and applications.
-
-		- ### **Configuration Management** = AWS maintains the configuration of its infrastructure hardware; customer responsible for configuring their own guest OS and applications.
-
-		- ### **Awareness & Training** = AWS trains AWS employees; customer trains their employees.
 
 <br>
 
@@ -117,6 +152,7 @@
 		- AWS Health API access
 		- Unlimited people can open unlimited cases
 		- x < 1 hour response time for production system down
+		- Infrastructure Event Management (IEM) for additional fee
 	### **Enterprise**
 		(Same as Business, in addition...)
 		- Includes Technical Account Manager (MONITORING) and Concierge (ACCOUNT & BILLING)
@@ -127,32 +163,145 @@
 
 <br>
 
-- ### **SaaS** = Whole stack is managed for you. Focus on how you will use the software.
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				SaaS
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Whole stack is managed for you; Focus on how you will use the software
+	</font>
+</details>
 
-<br>
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Paas
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Don’t need to manage the infrastructure level yourself, (hardware and OS); Focus on the deployment and management of applications.
+	</font>
+</details>
 
-- ### **Paas** = Don’t need to manage the infrastructure level yourself, (hardware and OS). Focus on the deployment and management of applications.
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				IaaS
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Hardware and hypervisor are managed for you; Most flexibility and control
+	</font>
+</details>
 
-<br>
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Acceptable Use Policy
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Customers can perform Penetration testing for selected aws services without needing approval from AWS
+	</font>
+</details>
 
-- ### **IaaS** = Basic building blocks for Cloud; Hardware and hypervisor are managed for you. Highest level of flexibility and control.
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Active-Active
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Workload deployed to multiple regions; fault tolerance for natural disasters
+	</font>
+</details>
 
-<br>
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Service limits
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Contact AWS support to increase service limits + AWS Trusted Advisor monitors service limits
+	</font>
+</details>
 
-- ### **AWS Cost Management tools**
-	- ### Create budgets and receive alerts
-	- ### Automatically terminate AWS resources if budget exceeded
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Per Second billing
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Linux, Windows or Ubuntu
+	</font>
+</details>
 
-<br>
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Amazon Cloud Directory
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Organize hierarchies of data based on relationships
+	</font>
+</details>
 
-- ### **Active-Active** = Workload deployed to multiple regions; fault tolerance for natural disasters
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Trusted Advisor
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Real-time recommendations to optimize Cost, Securitym Fault tolerance, Performance + Identify underutilized EC2 instances
+	</font>
+</details>
 
-<br>
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Avoid CAPEX costs?
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Public cloud
+	</font>
+</details>
 
-- ### **Service limits**
-	- ### Contact AWS support to increase service limits
-	- ### AWS Trusted Advisor monitor service limits
-
-<br>
-
-- ### **Per/Second billing is only for instances with Linux, Windows or Ubuntu**
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				How does AWS help customers achieve compliance?
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		AWS has common compliance certifications: PCI DSS, ISO 2700, ISO 9001, HIPAA
+	</font>
+</details>

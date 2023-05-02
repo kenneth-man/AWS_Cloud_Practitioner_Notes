@@ -9,7 +9,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Protect web apps from common exploits (e.g. SQL injection, cross-site scripting...)
+		Protect web apps [not hosted on AWS] from exploits (e.g. SQL injection, cross-site scripting...); part of CloudFront
 	</font>
 </details>
 <details>
@@ -21,7 +21,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Managed desktop virtualization service for Windows and Linux
+		Managed desktop virtualization for Windows and Linux
 	</font>
 </details>
 <details>
@@ -129,7 +129,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Test apps against desktop browsers, mobile device
+		Test apps against mobile and desktop browsers
 	</font>
 </details>
 <details>
@@ -153,7 +153,19 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Recover cloud based servers into AWS
+		Recover cloud based servers
+	</font>
+</details>
+<details>
+  	<summary>
+		<strong>
+			<font size=4>
+				CloudEndure Disaster Recovery
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Recover your environment from data corruption, malware...
 	</font>
 </details>
 <details>
@@ -213,7 +225,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Protect secrets/passwords/keys
+		Store secrets/passwords/keys
 	</font>
 </details>
 <details>
@@ -225,7 +237,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Rapidly deploy popular technologies on AWS
+		Rapidly deploy popular technologies in AWS
 	</font>
 </details>
 <details>

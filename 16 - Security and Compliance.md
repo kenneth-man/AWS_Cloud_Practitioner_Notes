@@ -70,7 +70,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Find malicious behaviour in VPC, DNS logs
+		Find malicious behaviour in VPC, DNS logs; Automatic remediation
 	</font>
 </details>
 <details>
