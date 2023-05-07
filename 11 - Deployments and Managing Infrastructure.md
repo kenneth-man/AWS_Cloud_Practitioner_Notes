@@ -11,7 +11,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Automatically deploy code and Monitor the health of an application
+		Automatically deploy code and Monitor the health of an application (upload ZIP, WAR files)
 	</font>
 </details>
 

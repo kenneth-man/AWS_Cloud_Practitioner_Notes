@@ -57,7 +57,7 @@
 	- Edge Computing and Data Migration
 	- TeraBytes of data (TBS)
 - ### **Snowball Edge**
-	- Natively supports AWS Database Migration Service (DMS)
+	- Natively supports EC2
 	- Edge Computing and Data Migration
 	- PetaBytes (PB)
 - ### **Snowmobile Truck**

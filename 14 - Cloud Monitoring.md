@@ -36,7 +36,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Monitor activity in your AWS account e.g. API calls, logs
+		Monitor user activity in your AWS account e.g. API calls, logs
 	</font>
 	<br>
 	<font size=4>

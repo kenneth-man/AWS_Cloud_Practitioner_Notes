@@ -2,21 +2,6 @@
 
 - ### Customers in AWS are responsible for **Encrypting data at rest** and **in transit**
 
-<br>
-
-- ### **Cloud advantages**
-	- Increase speed and agility
-	- No cost for data center maintenance
-	- Stop guessing capacity
-	- Trade capital/fixed expenses for variable expenses
-
-<br>
-
-- ### **AWS Shared Responsibility Model is part of which pillar of the AWS Well-Architected Framework?**
-	- Security
-
-<br>
-
 <details>
   	<summary>
 		<strong>
@@ -137,6 +122,10 @@
 <br>
 
 - ### **Shared Responsibility Model**
+
+	- ### **Shared Responsibility Model** is part of which pillar of the AWS Well-Architected Framework?
+		- Security
+
 ![](sharedResponsibilityModel.jpg)
 
 <br>
@@ -185,7 +174,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Don’t need to manage the infrastructure level yourself, (hardware and OS); Focus on the deployment and management of applications.
+		Don’t need to manage infrastructure (hardware and OS); Focus on deployment and management of applications.
 	</font>
 </details>
 
@@ -211,7 +200,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Customers can perform Penetration testing for selected aws services without needing approval from AWS
+		Customers can Penetration test selected services in their infrastructure without needing approval from AWS
 	</font>
 </details>
 
@@ -232,6 +221,45 @@
   	<summary>
 		<strong>
 			<font size=5>
+				Per Second billing
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Linux, Windows, Ubuntu
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Amazon Cloud Directory
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Organize data hierarchies based on relationships
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Trusted Advisor
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Real-time recommendations to optimize Cost, Security, Fault tolerance, Performance + Identify underutilized EC2 instances <strong>AND</strong> unrestricted access to EC2 instance ports
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
 				Service limits
 			</font>
 		</strong>
@@ -245,12 +273,12 @@
   	<summary>
 		<strong>
 			<font size=5>
-				Per Second billing
+				APN Consulting Partners
 			</font>
 		</strong>
 	</summary>
 	<font size=4>
-		Linux, Windows or Ubuntu
+		Professionals help design, build and manage AWS workloads
 	</font>
 </details>
 
@@ -258,25 +286,12 @@
   	<summary>
 		<strong>
 			<font size=5>
-				Amazon Cloud Directory
+				Simple Workflow Service (SWF)
 			</font>
 		</strong>
 	</summary>
 	<font size=4>
-		Organize hierarchies of data based on relationships
-	</font>
-</details>
-
-<details>
-  	<summary>
-		<strong>
-			<font size=5>
-				Trusted Advisor
-			</font>
-		</strong>
-	</summary>
-	<font size=4>
-		Real-time recommendations to optimize Cost, Securitym Fault tolerance, Performance + Identify underutilized EC2 instances
+		Coordinate tasks across distributed application components
 	</font>
 </details>
 
@@ -302,6 +317,6 @@
 		</strong>
 	</summary>
 	<font size=4>
-		AWS has common compliance certifications: PCI DSS, ISO 2700, ISO 9001, HIPAA
+		AWS has common compliance certifications: PCI, ISO, HIPAA
 	</font>
 </details>
