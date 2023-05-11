@@ -7,7 +7,7 @@
 	- **Managed by AWS so simplifies DB Admin role**
 	- **Scale up by increasing the instance size or storage capacity**
 	- **Supports ACID transactions (Atomicity, Consistency, Isolation, and Durability)**
-	- **Dbs created with RDS (all use EBS Volume for storage):**
+	- **Dbs created with RDS; !!!!! ALL USE EBS VOLUMES !!!!:**
 		- **Aurora** = **Cloud optimized**; better performance than Postgres/MySQL on RDS; automatically replicates data across 3 AZ
 		- **Postgres**
 		- **MySQL**

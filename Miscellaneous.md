@@ -84,6 +84,19 @@
   	<summary>
 		<strong>
 			<font size=5>
+				Savings Plans (3)
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		EC2, Lambda, Fargate
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
 				Asynchronous integration
 			</font>
 		</strong>
@@ -102,7 +115,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Apply to both infrastructure and customer layer
+		Applies to both AWS and customer
 	</font>
 </details>
 
@@ -115,7 +128,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Managed for customer by AWS
+		Managed for the customer by AWS
 	</font>
 </details>
 
@@ -123,8 +136,7 @@
 
 - ### **Shared Responsibility Model**
 
-	- ### **Shared Responsibility Model** is part of which pillar of the AWS Well-Architected Framework?
-		- Security
+	- ### Part of Well-Architected Framework Security pillar
 
 ![](sharedResponsibilityModel.jpg)
 
@@ -132,7 +144,7 @@
 
 - ### **AWS Support Plans (ALL HAVE ACCESS TO CUSTOMER SUPPORT)**
 	### **Basic**
-		– Forums support.
+		– Forums support
 	### **Developer**
 		– Business hours email support
 		- 1 person can open unlimited cases

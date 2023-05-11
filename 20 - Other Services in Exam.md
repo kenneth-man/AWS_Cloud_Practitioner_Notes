@@ -40,6 +40,18 @@
   	<summary>
 		<strong>
 			<font size=4>
+				Migration Evaluator
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Build a Business Case for migrating to the AWS
+	</font>
+</details>
+<details>
+  	<summary>
+		<strong>
+			<font size=4>
 				AppStream 2.0
 			</font>
 		</strong>
@@ -232,7 +244,7 @@
   	<summary>
 		<strong>
 			<font size=4>
-				Quick Starts
+				Quick Starts (aka Partner Solutions)
 			</font>
 		</strong>
 	</summary>
