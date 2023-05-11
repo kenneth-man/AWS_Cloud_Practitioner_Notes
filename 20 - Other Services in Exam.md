@@ -45,7 +45,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Build a Business Case for migrating to the AWS
+		Build a Business Case for migrating to AWS
 	</font>
 </details>
 <details>
