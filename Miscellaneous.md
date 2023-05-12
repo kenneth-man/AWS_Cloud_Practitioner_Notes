@@ -33,12 +33,12 @@
   	<summary>
 		<strong>
 			<font size=5>
-				Managed (2)
+				Managed (3)
 			</font>
 		</strong>
 	</summary>
 	<font size=4>
-		DynamoDB, EMR
+		DynamoDB, RDS, EMR
 	</font>
 </details>
 
