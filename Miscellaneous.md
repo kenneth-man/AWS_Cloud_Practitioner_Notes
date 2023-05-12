@@ -1,7 +1,8 @@
 ## **Common/important questions**
 
-- ### Customers in AWS are responsible for **Encrypting data at rest** and **in transit**
+---
 
+## Not the only services for their categories but they come up often enough...
 <details>
   	<summary>
 		<strong>
@@ -93,6 +94,8 @@
 	</font>
 </details>
 
+---
+
 <details>
   	<summary>
 		<strong>
@@ -132,11 +135,13 @@
 	</font>
 </details>
 
+
 <br>
 
 - ### **Shared Responsibility Model**
 
-	- ### Part of Well-Architected Framework Security pillar
+	- ### Part of Well-Architected Framework **Security** pillar
+	- ### Customers are responsible for **Encrypting data at rest** and **in transit**
 
 ![](sharedResponsibilityModel.jpg)
 

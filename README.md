@@ -1,3 +1,1 @@
-# ASW Certified Cloud Practitioner Notes
-
-## Udemy - https://www.udemy.com/course/aws-certified-cloud-practitioner-new/
+# AWS Certified Cloud Practitioner Exam Notes
