@@ -105,7 +105,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Billing datasets; past billing activity
+		Billing datasets (Most detailed/granular); past billing activity
 	</font>
 </details>
 <details>
