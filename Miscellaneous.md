@@ -2,7 +2,7 @@
 
 ---
 
-## Not the only services for their categories but they come up often enough...
+## Not the only services for their categories but they come up often enough...**(63354223)**
 <details>
   	<summary>
 		<strong>
@@ -78,6 +78,19 @@
 	</summary>
 	<font size=4>
 		Storage Gateway, S3 Glacier
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Automated Data Replication (2)
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Aurora, S3
 	</font>
 </details>
 

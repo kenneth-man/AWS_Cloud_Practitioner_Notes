@@ -65,6 +65,6 @@
 		</strong>
 	</summary>
 	<font size=4>
-		1 Login for multiple AWS accounts and applications
+		1 Login for multiple AWS accounts and applications; <strong>Federation</strong> = Use existing corporate credentials
 	</font>
 </details>
