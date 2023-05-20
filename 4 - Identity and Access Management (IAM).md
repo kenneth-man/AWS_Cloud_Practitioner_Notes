@@ -17,7 +17,7 @@
 - ### **Security Tools**
 	- ### **IAM Credentials Report** = All your account's users and credentials
 	- ### **IAM Access Advisor** = Shows permissions for a user and when they last accessed services
-- ### **Each policy specifies:** 
+- ### **Policy = Assign permissions directly to IAM user** 
 	- ### **Principal** = Account/User/Role to apply the policy to
 	- ### **Action** = Action to allow/deny
 	- ### **Resource** = AWS resources to apply the action to

@@ -8,7 +8,7 @@
 <br>
 
 ## **AWS Global Infrastructure**
-- ### **Region** = Geographic region; Multiple Independant Availability Zones
+- ### **Region** = Geographic region; Multiple Independant Availability Zones with low latency high throughput redundant connections
 - ### **Availability Zone** = One or more Data Centers
 - ### **Edge Locations/Points of Presence** = Content Delivery Network (CDN) endpoints for **CloudFront**
 - ### **Elastic IP** = Remapped between EC2 instances across AZs, incase of failure

@@ -3,7 +3,7 @@
 ## **Relational Databases** (SQL)
 - ### **AWS RDS**
 	- Create a DB in the cloud using schema
-	- **Automated backups and patching via RDS console**
+	- **Automated backups and patching via RDS console; Point-In-Time Recovery is 5 mins**
 	- **Managed by AWS so simplifies DB Admin role**
 	- **Scale up by increasing the instance size or storage capacity**
 	- **Supports ACID transactions (Atomicity, Consistency, Isolation, and Durability)**
@@ -179,6 +179,21 @@
 	</summary>
 	<font size=4>
 		Migrate data from database to database
+	</font>
+</details>
+
+<br>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Application Migration Service (AMS)
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Migrate on-premises workloads to AWS
 	</font>
 </details>
 
