@@ -129,7 +129,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Deploy full stack mobile and web apps
+		Deploy full stack mobile and web apps (Next.js only)
 	</font>
 </details>
 <details>

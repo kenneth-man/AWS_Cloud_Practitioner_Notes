@@ -174,6 +174,7 @@
 		- Infrastructure Event Management (IEM) for additional fee
 	### **Enterprise**
 		(Same as Business, in addition...)
+		- Operations Support (Review all operations)
 		- Includes Technical Account Manager (MONITORING) and Concierge (ACCOUNT & BILLING)
 		- x < 15 minutes response time for business-critical system failure
 	### **Enterprise on Ramp**
@@ -348,5 +349,18 @@
 	</summary>
 	<font size=4>
 		AWS has common compliance certifications: PCI, ISO, HIPAA
+	</font>
+</details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Elasticsearch
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Operational analytics; visualize data
 	</font>
 </details>
