@@ -24,6 +24,18 @@
   	<summary>
 		<strong>
 			<font size=4>
+				AWS Control Tower
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Automated best practice blueprints to build multi-account environments quickly and easily
+	</font>
+</details>
+<details>
+  	<summary>
+		<strong>
+			<font size=4>
 				Security Token Sevice (STS)
 			</font>
 		</strong>

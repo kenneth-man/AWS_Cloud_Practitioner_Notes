@@ -164,10 +164,12 @@
 - ### **AWS Support Plans (ALL HAVE ACCESS TO CUSTOMER SUPPORT)**
 	### **Basic**
 		– Forums support
+		- Core Trusted Advisor checks
 	### **Developer**
 		– Business hours email support
 		- 1 person can open unlimited cases
 	### **Business**
+		- Full Trusted Advisor checks
 		– 24/7 email, chat, and phone support
 		- AWS Health API access
 		- Unlimited people can open unlimited cases
