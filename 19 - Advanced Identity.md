@@ -17,7 +17,7 @@
 	</font>
 	<br>
 	<font size=4>
-		&nbsp;&nbsp;&nbsp;&nbsp; - <strong>Consolidated billing</strong> = Volume discounts in a single monthly bill for multiple AWS accounts; Tiered pricing choices 
+		&nbsp;&nbsp;&nbsp;&nbsp; - <strong>Consolidated billing</strong> = Volume pricing discounts in a single monthly bill for multiple AWS accounts (aggregate/pool usage); Tiered pricing choices 
 	</font>
 </details>
 <details>
@@ -29,7 +29,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Automated best practice blueprints to build multi-account environments quickly and easily
+		Automated best practice blueprints to build multi-account environments
 	</font>
 </details>
 <details>
