@@ -2,6 +2,6 @@
 - 13,14,15,16,21,17,18,19,20 <=========== Recalled last
 
 memorize:
-- Trusted advisor checks for support plans
-- Control tower
-- Placement groups
+- privatelink between AZs, not regions
+- ses simple email service
+- virtual private gateway

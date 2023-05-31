@@ -47,6 +47,10 @@
 	<font size=4>
 		- <strong>Flow Logs</strong> = Network traffic logs
 	</font>
+	<br>
+	<font size=4>
+		- <strong>Virtual private gateway</strong> = Configuration item to establish a managed VPN service; attaches to VPC to create a VPN connection
+	</font>
 </details>
 
 <br>
@@ -60,7 +64,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		- <strong>PrivateLink</strong> = Privately connect to a service in a 3rd party VPC with encrypted channel
+		- <strong>PrivateLink</strong> = Privately connect to a service in a 3rd party VPC with encrypted channel (between AZs, not regions)
 	</font>
 	<br>
 	<font size=4>
@@ -76,7 +80,7 @@
 	</font>
 	<br>
 	<font size=4>
-		- <strong>Direct Connect</strong> = Direct private connection to AWS
+		- <strong>Direct Connect</strong> = Direct private connection to AWS; consistent; no internet connection
 	</font>
 	<br>
 	<font size=4>

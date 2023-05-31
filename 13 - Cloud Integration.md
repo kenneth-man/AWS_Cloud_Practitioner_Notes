@@ -54,6 +54,25 @@
   	<summary>
 		<strong>
 			<font size=5>
+				SES
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		- <strong>Email Service</strong>; pay as you go
+	</font>
+	<br>
+	<font size=4>
+		- Send and recieve (bulk) email from within any application
+	</font>
+</details>
+
+<br>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
 				Kinesis
 			</font>
 		</strong>
