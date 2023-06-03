@@ -63,7 +63,7 @@
 	</font>
 	<br>
 	<font size=4>
-		- Send and recieve (bulk) email from within any application
+		- Send and recieve (bulk) emails from within any application
 	</font>
 </details>
 

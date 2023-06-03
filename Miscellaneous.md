@@ -367,3 +367,16 @@
 		Operational analytics; visualize data
 	</font>
 </details>
+
+<details>
+  	<summary>
+		<strong>
+			<font size=5>
+				Cloud Adoption Framework (CAF)
+			</font>
+		</strong>
+	</summary>
+	<font size=4>
+		Helps organizations design a road map to successful cloud adoption
+	</font>
+</details>

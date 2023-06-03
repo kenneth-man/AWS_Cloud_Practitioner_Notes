@@ -64,7 +64,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		- <strong>PrivateLink</strong> = Privately connect to a service in a 3rd party VPC with encrypted channel (between AZs, not regions)
+		- <strong>PrivateLink</strong> = Privately connect to a service in a 3rd party VPC with encrypted channel (across AZs, not regions)
 	</font>
 	<br>
 	<font size=4>
