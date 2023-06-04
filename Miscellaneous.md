@@ -155,7 +155,7 @@
 
 	- ### Part of Well-Architected Framework **Security** pillar
 	- ### Customers are responsible for **Encrypting data at rest** and **in transit**
-	- ### Serverless Architecture: don't have to scale compute capacity, AWS manages for you
+	- ### Serverless Architecture: don't have to scale compute capacity, AWS manages for you + No reservations
 
 ![](sharedResponsibilityModel.jpg)
 
@@ -377,6 +377,6 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Help organizations design a road map for cloud adoption
+		Help organizations build a road map for successful cloud adoption
 	</font>
 </details>
