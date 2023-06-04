@@ -105,7 +105,7 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Billing datasets (Most detailed/granular); past billing activity
+		Billing datasets (Most detailed/granular); past billing activity; S3 BUCKET
 	</font>
 </details>
 <details>
@@ -117,6 +117,6 @@
 		</strong>
 	</summary>
 	<font size=4>
-		View current and forecast usage (3/12 months); view billing information separately using tags
+		View current and forecast usage (3/12 months); view billing information separately using tags; EC2 RESERVED INSTANCES
 	</font>
 </details>

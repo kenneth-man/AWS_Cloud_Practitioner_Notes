@@ -377,6 +377,6 @@
 		</strong>
 	</summary>
 	<font size=4>
-		Helps organizations design a road map to successful cloud adoption
+		Help organizations design a road map for cloud adoption
 	</font>
 </details>
