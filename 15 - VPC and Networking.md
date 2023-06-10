@@ -80,7 +80,7 @@
 	</font>
 	<br>
 	<font size=4>
-		- <strong>Direct Connect</strong> = Direct private connection to AWS; consistent; no internet connection
+		- <strong>Direct Connect</strong> = Direct private connection to AWS; consistent, stable, dedicated, single VPC, avoids internet connection
 	</font>
 	<br>
 	<font size=4>

@@ -77,6 +77,6 @@
 		</strong>
 	</summary>
 	<font size=4>
-		1 Login for multiple AWS accounts and applications; <strong>Federation</strong> = Use existing corporate credentials
+		1 Login for multiple AWS accounts and applications; <strong>Federation</strong> = Use existing corporate credentials; doesn't support SAML
 	</font>
 </details>
